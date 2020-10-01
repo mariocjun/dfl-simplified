@@ -1,5 +1,5 @@
 @echo off
-MODE con:cols=40 lines=23
+MODE con:cols=41 lines=23
 cls
 :menu
 cls
