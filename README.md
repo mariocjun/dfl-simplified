@@ -4,7 +4,7 @@ CASO NÃO POSSUA UMA PLACA DE VIDEO NVIDIA DE PELO MENOS 4GB DE MEMÓRIA, É ALT
 
 Os arquivos originais do DeepFaceLab estão ocultos, caso queira usar a versão original apenas habilite a visualização de itens ocultos, porém os deixo ocultos para não poluir visualmente. 
 
-Baixe o DeepFaceLab modificado em meu GDrive no link, ou caso já o possua o original apenas baixe o facilitador.
+Baixe o DeepFaceLab modificado em meu GDrive no link https://drive.google.com/file/d/1VuPlMhY9ryLw2LddL-s2g-dqBC6EodjM, ou caso já o possua o original apenas baixe o facilitador.
 
 Descompacte o arquivo.
  
@@ -21,6 +21,7 @@ Abre a pasta onde serão adicionados os videos data_src(fonte) e data_dst(destin
 Remove todos os arquivos adicionados na pasta workspace, exceto os videos originais data_src e data_dst, e a pasta model.
 
 INCOMPLETO{
+
 3.  Extrair frames de video fonte    
 4.  Extrair frames de video destino  
 5.  Extrair rostos de video fonte    
